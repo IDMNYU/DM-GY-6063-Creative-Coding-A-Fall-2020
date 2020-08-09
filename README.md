@@ -9,6 +9,8 @@
 
 _NB : This syllabus is subject to change_
 
+![The mascot](header.jpg)
+
 ### Course Description
 This course is an introductory programming class, appropriate for students with no prior programming experience. Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result. In this course, students are trained to go beyond this sequential thinking – to think concurrently and modularly and ask questions about how computation cxan reflect creative potential. By semster end, students are empowered to write and read code for event-driven, object-oriented, experiences and connect them to the physical world.
 
