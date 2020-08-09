@@ -11,6 +11,28 @@ _NB : This syllabus is subject to change_
 
 ![The mascot](header.jpg)
 
+## Contents
+* [Pre-requisites](#pre-requisites)
+* [Course Description](#course-description)
+* [Program Objectives](#idm-program-objectives)
+* [Learning outcomes](#learning-outcomes)
+* [Important Dates](#important-dates)
+* [Course structure](#course-structure)
+* [Software](#software)
+* [Hardware](#hardware)
+* [Reading](#reading)
+    * [Books](#books)
+    * [Websites](#websites)
+* [Grading & Attendance](#grading-and-attendance)
+    * [Absences and tardiness](#Absences-and-tardiness)
+    * [Grade Breakdown](#grade-breakdown)
+    * [Midterm](#midterm)
+    * [Final](#final)
+    * [Assignments](#assignments)
+    * [Online Journal](#online-journal)
+* [Academic Accomodations](#academic-accomodations)
+
+
 ### Pre-requisites
 None!
 
@@ -25,7 +47,7 @@ Students will:
 * Gain knowledge of professional practices and organizations by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
 * Develop collaboration skills to actively and effectively work in a team or group.
 
-### Learning outcomes:
+### Learning outcomes
 At the end of the course, students will :
 * Understand the basics of creative coding in Javascript using p5.js.
 * Write code within the context of visual art and design
@@ -80,7 +102,7 @@ Some relevant titles that you may want to look into include :
 * [r/CreativeCoding](https://www.reddit.com/r/creativecoding/)
 * [Creative Developers Slack](https://join.slack.com/t/creative-dev/shared_invite/zt-gg5uo3b9-Du~m63ivO1n0RGsNxfAndw)
 
-### Grading & Attendance Policy
+### Grading and Attendance Policy
 The assignments are designed to test and deepen your knowledge while giving me valuable information about how you’re progressing in the class. Remember, **finished is better than perfect**. An attempt at an assignment that does not meet your expectations is better than nothing at all.
 
 You are expected to push yourself, be curious, and be challenged every week. If you have previous programming experience, this means you will be expected to “go beyond” the assignment, and interpret what a next step (or steps) would be for yourself. If you have no programming experience, that’s fine too! This course is made for you, and you should find yourself exploring means of creative expression that are novel to you.
@@ -113,7 +135,7 @@ The sooner you start to think about and articulate your ideas for projects, the 
 Each week you will be asked to write a software sketch (posssibly more than one) and post it online. You must also write a short blog post about the sketch, and react to any readings that are assigned. Blog posts are to be made on an online journal described below. Work is due before the next class meeting. We will spend time during each class going over the homework, so if you don’t understand a concept, its best to write about that, put up what you attempted to code, and we can use that as a starting point for class discussion.
 Late work will be penalized. Every day work is overdue, it loses a letter grade. If work is turned in more than 4 days late, it receives an F. If you turn nothing in at all, you will receive a 0 for the assignment. Nobody wants that, so be sure to turn your work in on time. Anything is better than nothing.
 
-##### Online Journal:
+##### Online Journal
 You are expected to keep an online journal. The purpose of the journal is twofold. First, it is a valuable way for you to communicate to me that you are keeping up with the work in the class. I read the site to see how you are doing. At a minimum, reference to your work is expected, as well as reference to the readings, and thorough documentation of any research. Secondly, the journal is a way to document your work for your own use and that of others.
 
 You must update the journal weekly with the work you have done for class. It's generally easiest to do this as you do the work.
