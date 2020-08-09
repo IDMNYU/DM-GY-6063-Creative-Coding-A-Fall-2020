@@ -1,11 +1,11 @@
 # Welcome to Creative Coding!
 ## DM-GY 6063 Creative Coding Section A
 
-**Term:** Fall 2020
-**Instructor:** Scott Fitzgerald
-**Instructor Email:** shf220@nyu.edu
-**Class meeting:** Wed 6:30pm – 9:20pm, 370 Jay Room 325 A
-**Office Hours:** Link to sign up for office hours
+* **Term:** Fall 2020
+* **Instructor:** Scott Fitzgerald
+* **Instructor Email:** shf220@nyu.edu
+* **Class meeting:** Wed 6:30pm – 9:20pm, 370 Jay Room 325 A
+* **Office Hours:** Link to sign up for office hours
 
 _NB : This syllabus is subject to change_
 
