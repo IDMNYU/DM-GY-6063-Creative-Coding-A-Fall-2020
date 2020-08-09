@@ -78,7 +78,7 @@ Some relevant titles that you may want to look into include :
 * [OpenProcessing](http://openprocessing.org)
 * [Creative Applications](https://www.creativeapplications.net/)
 * [r/CreativeCoding](https://www.reddit.com/r/creativecoding/)
-* [Creative Developes Slack](https://join.slack.com/t/creative-dev/shared_invite/zt-gg5uo3b9-Du~m63ivO1n0RGsNxfAndw)
+* [Creative Developers Slack](https://join.slack.com/t/creative-dev/shared_invite/zt-gg5uo3b9-Du~m63ivO1n0RGsNxfAndw)
 
 ### Grading & Attendance Policy
 The assignments are designed to test and deepen your knowledge while giving me valuable information about how you’re progressing in the class. Remember, **finished is better than perfect**. An attempt at an assignment that does not meet your expectations is better than nothing at all.
