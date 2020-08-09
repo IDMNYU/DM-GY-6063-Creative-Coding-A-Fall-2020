@@ -20,7 +20,7 @@ Students will:
 * Gain knowledge of professional practices and organizations by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
 * Develop collaboration skills to actively and effectively work in a team or group.
 
-### LEARNING OUTCOMES:
+### Learning outcomes:
 At the end of the course, students will :
 * Understand the basics of creative coding in Javascript using p5.js.
 * Write code within the context of visual art and design
