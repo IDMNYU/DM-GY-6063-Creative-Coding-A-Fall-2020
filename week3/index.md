@@ -1,10 +1,4 @@
-# Week 4 - Friday February 21
-* Presentations!
-* discussion of reading
-* Show your work
-* analog input and output
-
-This far, we’ve worked with digital sensors, that is, things that are either on or off. While this binary system is great for computers, we live in a world that’s not quite so black and white.
+This far, we’ve worked with digital sensors. That is, things that are either on or off. While this binary system is great for computers, we live in a world that’s not quite so black and white.
 
 The physical world exists along a spectrum, and fortunately for us, there are a wide variety of sensors that can get information about the physical world. With some sleight of hand, we can teach computers about the world around us. We’ll address a few of the many different types of sensors in a little bit. First, how do we trick the computer?
 
@@ -117,13 +111,3 @@ map() doesn’t constrain numbers, so it’s possible to get mapped values outsi
 mappedVal=constrain(mappedVal,0,255);
 ```
 Another way to deal with sensors that have variability in their inputs (and deal with environmental differences) is to [calibrate your sensors](https://www.arduino.cc/en/Tutorial/Calibration), mapping from the max & min values.
-
-
-* Midterm party
-  * Your midterm project is a group project. You will work in pairs. You need to build a physically interactive system that has some sort of physical input and output. There are a number of different ways this project can be approached, we will discuss in class. You will have a few weeks to build this, but every week in the process you are expected to show steady progress in its completion. While only one member of a group needs to write about the project, the other needs to link to the post from their site. You will present these in class, they should be functional and usable by other members of the class when you present the project. Hide the wires and breadboard and electronis as much as possible inside an enclosure, you want this to be presentable. Document your work well. If your presentation fails, you should still be able to show a working project through clear video documentation.
-* Readings- 
-  * [Phsyical Computing's Greatest Hits and Misses](https://www.tigoe.com/blog/category/physicalcomputing/176/)
-  * [A Taxonomy of Tangible User interfaces](http://courses.ischool.berkeley.edu/i262/f13/readings_pdf/taxonomy.pdf)
-* Assignment
-  * Build a love machine that identifies how compatible two people are with the microcontroller. Use analog sensors for this. Ideally, work in pairs. Document this in your journal.
-  * Write a short decription of your midterm idea. Draw a sketch of what the system will be, think about how someone will interact with it. Be prepared to discuss your proposal next week in class. 
