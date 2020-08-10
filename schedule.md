@@ -13,7 +13,7 @@ _this may change! but probably not until later in the semester_
     * Create an online blog for the class.
     * Review the Wrangling Electrons post and create a circuit with a switch and make a post in your blog about it. Can you make the switch close with something so you don't have to use your hands? What about your feet, or ear, or nose? What other materials could you find that conduct electricity that could be used in a switch?
     
-* **WEEK 2 - September 9**
+* **[WEEK 2 - September 9](week2/index.md)**
   * Intro to Arduino programming, digital input/output. 
   * Conditionals
   * _Readings_
@@ -21,7 +21,7 @@ _this may change! but probably not until later in the semester_
   * _Assignment :_
     * Expanding on your switch from last week, make a program with the Arduino that combines multiple switches and outputs. Introduce some 'thought' into your system of input and output. How can you contextualize meaning from a blinking light?
 
-* **WEEK 3 - September 16**
+* **[WEEK 3 - September 16](week3/index.md)**
   * Analog In/Out 
   * variables, for() loops
   * color mixing with a RGB LED
