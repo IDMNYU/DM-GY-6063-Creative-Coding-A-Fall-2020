@@ -35,7 +35,10 @@ This circuit has 2 LEDs in series (for you CS folks, this is like &&)
 This circuit has 2 switches in series 
 ![leds in series](/week1/seriesSwitches.png)
 
-This curcuit has 2 LEDs in parallel (similar to || in programming)
+This circuit has 2 LEDs in parallel. The voltage drop across each LED is the same.
+![LEDs in parallel](/week1/parallelLED_bb.png)
+
+This curcuit has 2 LEDs and 2 switches in parallel (similar to || in programming)
 ![leds and switches in parallel](http://cc.droolcup.com/wp-content/uploads/2015/07/bb.png)
 
 Multimeters are great tools for figuring out what is going on inside a circuit. [Adafruit has a very nice tutorial on how to use one.](https://learn.adafruit.com/multimeters/overview)
