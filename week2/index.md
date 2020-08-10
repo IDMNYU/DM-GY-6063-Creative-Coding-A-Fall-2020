@@ -1,14 +1,8 @@
-# Week 3 - Friday February 14
-* Let's see those switches
-* [Sign up for presentations](https://docs.google.com/spreadsheets/d/1MMgeDywQdWfN6e-FvFUnoKXYQhVwJvkjrlulPLM4cQc/edit?usp=sharing)
-* Hello World of microcontrollers
-* digital input and output
-
-While you’ve successfully managed to turn some lights on, you’ve so far been limited in that you have only been able to do one thing at a time. With software, we can do multiple things (or at least have the appearance of multiple things) happening. We can also control things so that they happen automagically. It's the interaction of algorithims, memory, and whatever input you provide that make the magic happen. Through software, we can reconfigure a machine to do anything we darn well please, including teaching the machine to behave like a different machine (see also, emulators).
+While you’ve successfully managed to turn some lights on, you’ve so far been limited in that you have only been able to do one thing at a time. With software, we can do multiple things (or at least have the appearance of multiple things) happening. We can also control things so that they happen automagically or behave in a more compex fashion than a one-to-one relationship. It's the interaction of algorithims, memory, and whatever input you provide that make the magic happen. Through software, we can reconfigure a machine to do anything we darn well please, including teaching the machine to behave like a different machine (see also, emulators).
 
 There a many many different types of software languages. Sadly, [the ones that I think are most interesting are the least useful to us](https://esoteric.codes/). Generally speaking though, languages can be laid out along a continuum of “high-level” to “low-level”. As we’re not planning on talking directly to the silicon in the chips we’re using, we can use a higher level language that is closer to natural human language than natural machine language. 
 
-The general idea behind software is that it abstracts machine instructions (a series of 0s and 1s) and gives us something closer to what we might use to communicate with one another. We have limited options for the Arduino. [The Arduino language](https://www.arduino.cc/en/Reference/HomePage) is a high level variant of C with a few C++ features. These are different than python or javascript in a number of ways, most importantly in that they are 'typed'. Some microcontrollers do allow you to write python, lua, or javascript for them- but that's living on the edge, we won't visit that in class.
+The general idea behind software is that it abstracts machine instructions (a series of 0s and 1s) and gives us something closer to what we might use to communicate with one another. We have limited options for the Arduino. [The Arduino language](https://www.arduino.cc/en/Reference/HomePage) is a high level variant of C with a few C++ features. These are different than python or javascript in a number of ways, most importantly in that they are 'typed'. Some microcontrollers do allow you to write python, lua, or javascript for them.
 
 While you can write software anywhere, a scrap of paper, text pad, back of your hand, it’s best to write it in an application that will compile the code into something meaningful to the machine. With Arduino, the makers of the hardware have created an _IDE_ (Integrated Development Environment) that allows us to write code and compile it to machine language in one place. It will also do a nifty backflip and load the code onto the microcontroller for us. Once on the microcontroller, the code will operate independently from the IDE. You can upload your code, unplug the microcontroller from your computer, and let it go on its own merry way.
 
@@ -147,13 +141,5 @@ Here are the 2 additional circuits  :
 2 LEDs, 1 switch
 ![2 LEDs, a Switch and Arduino on a breaboard](/week3/2LED_1switch.png)
 
-
 2 LEDs, 2 switches (for use with the and/or program)
 ![2 LEDs, 2 Switches and Arduino on a breaboard](/week3/2LED_2switch.png)
-
-
-* Readings- 
-  * [Read Prologue and Chapter 1, _Attractive Things Work Better_ from "Emotional Design" by Don Norman](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=876410&ppg=16)
-  * What do you think of the three elements of design (visceral, behavorial, and reflective) Norman describes? Are they sufficient? Is it too much hair splitting? Write a short response on your class journal before Thursday Feb 20 at 6pm.
-* Assignment
-  * Using the switch you built last week, control a set of lights with your microcontroller. Try making a counter, or a stop light, or something else with this new control. Can you add more switches? Can you make lights blink independently (look at the Arduino examples > Digital > Blink without delay sketch for a hint on how to do this)? Document this new interaction with your switch and post it to your blog before class on Friday.
