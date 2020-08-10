@@ -33,7 +33,7 @@ _this may change! but probably not until later in the semester_
     
 * **WEEK 4 - September 23**
     * Many pixels on a screen
-    * p5js
+    * drawing with p5js
     
 * **WEEK 5 - September 30**
     * animation
@@ -54,6 +54,7 @@ _this may change! but probably not until later in the semester_
     
 * **WEEK 10 - November 4**
     * APIs
+    * data viz
     
 * **WEEK 11 - November 11**
     * video, audio
