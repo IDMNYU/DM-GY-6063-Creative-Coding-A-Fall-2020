@@ -14,7 +14,7 @@ You should also keep in mind that that electricity is like a college student in 
 The last thing you need to know about circuit building is that all things must connect to ground.
 
 We [use schematics to identify various components](https://vimeo.com/90534363)
-![components and schemeatics](/week2/components.png)
+![components and schemeatics](/week1/components.png)
 
 [Breadboards](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all) are our canvas. They’re the best. They allow us to change circuits quickly and easily. Underneath the plastic insulation, there are metallic strips that form connections which carry electricity. See [what’s inside a breadboard](https://www.youtube.com/watch?v=qDe28Su5lOA) for more.
 
@@ -26,7 +26,7 @@ Turn the Arduino into an expensive power supply to light up your LED.
 ![simple circuit](http://cc.droolcup.com/wp-content/uploads/2015/07/Simple-Switch.png)
 
 This circuit has 2 LEDs in series (for you CS folks, this is like &&)
-![leds in series](/week2/seriesLED_bb.png)
+![leds in series](/week1/seriesLED_bb.png)
 
 This curcuit has 2 LEDs in parallel (aka ||)
 ![leds and switches in parallel](http://cc.droolcup.com/wp-content/uploads/2015/07/bb.png)
