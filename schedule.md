@@ -2,6 +2,8 @@
 
 _this may change! but probably not until later in the semester_
 
+![checking](https://media0.giphy.com/media/l2YWxPbinlJYX5zMc/giphy.gif)
+
 * **WEEK 1 - September 2**
     * Electricity 
     
