@@ -59,7 +59,7 @@ _this may change! but probably not until later in the semester_
     
 * **WEEK 9 - October 28**
   * libraries
-    * Serial communication - connect p5 with an Arduino!
+    * [Serial communication - connect p5 with an Arduino!](week9/serial.md)
     * DOM - mess with a webpage
   * _Assignment_
     * build a controller for a sketch. Etch-a-sketch? Maybe build a wackadoodle interface for something you've already created?
