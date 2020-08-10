@@ -127,10 +127,9 @@ We can read the code above like this : “Read the value of pin 3, if there's 5V
 
 Now that we have the code, let’s adjust our circuit by adding a switch. This is not as straightforward as you want it to be either.
 
-![LED Switch and Arduino on a breaboard](/week3/LED_Switch.png)
+![LED Switch and Arduino on a breaboard](/week2/LED_Switch.png)
 
-
-You’re probably asking what the heck that 10kilohm resistor is doing in there.
+You’re probably asking what the devil that 10kilohm resistor is doing in there.
 
 When you press the button as wired above, 5V flows across the resistor. If it was a smaller value, it would get hot as it's the only load in the circuit. When the button is not pressed, it provides a reference to ground. Without that reference, the pin would be “floating” and may pick up all sorts of stray electricity. This 10k resistor is your insurance that you will always get the proper reading from the switch.
 
@@ -139,7 +138,7 @@ Now that you’ve mastered the basics of writing code for digital input and outp
 Here are the 2 additional circuits  :
 
 2 LEDs, 1 switch
-![2 LEDs, a Switch and Arduino on a breaboard](/week3/2LED_1switch.png)
+![2 LEDs, a Switch and Arduino on a breaboard](/week2/2LED_1switch.png)
 
 2 LEDs, 2 switches (for use with the and/or program)
-![2 LEDs, 2 Switches and Arduino on a breaboard](/week3/2LED_2switch.png)
+![2 LEDs, 2 Switches and Arduino on a breaboard](/week2/2LED_2switch.png)
