@@ -63,8 +63,8 @@ _this may change! but probably not until later in the semester_
   * libraries
     * [Serial communication - connect p5 with an Arduino!](week9/serial.md)
     * DOM - mess with a webpage
-  * _video_
-    * [Serial communication playlist](https://www.youtube.com/watch?v=PPyJnY7gcEg&list=PLnkvii1uWBvEprzkCJZbSAWsiqncWodoQ)
+  * _Video lecture / demo_
+    * [Serial communication between Arduino and p5js](https://www.youtube.com/watch?v=PPyJnY7gcEg&list=PLnkvii1uWBvEprzkCJZbSAWsiqncWodoQ)
   * _Assignment_
     * build a controller for a sketch. Etch-a-sketch? Maybe build a wackadoodle interface for something you've already created?
     
