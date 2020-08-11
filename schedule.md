@@ -13,7 +13,7 @@ _this may change! but probably not until later in the semester_
     * Create an online blog for the class.
     * Review the Wrangling Electrons post and create a circuit with a switch and make a post in your blog about it. Can you make the switch close with something so you don't have to use your hands? What about your feet, or ear, or nose? What other materials could you find that conduct electricity that could be used in a switch?
     
-**No Class September 9**    
+**No Class September 9, classes run on a Monday schedule**    
     
 * **[WEEK 2 - September 16](week2/index.md)**
   * Intro to Arduino programming, digital input/output. 
