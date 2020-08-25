@@ -74,14 +74,7 @@ There will be weekly readings to accoompany these videos, you should be prepared
 * an account with the [p5.js online editor](https://editor.p5js.org/)
 
 ### Hardware
-You'll need to spend a little money for this course. Unless you get the bug for electronics, it will sustain you for the rest of your time with us. There's 2 approaches, depending on where you live. For folks who already have an Arduino, a breadboard, and some LEDs, rewsitors and ensors, you dn;t need to purchase anything, but check with your instructor to make ure you don't require anything else. If you have any questions about any of this, please drop me a line.
-_NB : You should have these materials for the first week of class_
-* If you're in Africa, please order this
-* If you're in Asia, please order this from DF Robot
-* If you're in Europe, pleaee order this
-* If you're in India, please order this
-* If you're in the US, and want the bare minimum for class, purchase these items from Digikey
-* If you're in the US, and want a more advanced kit that has more options for communication or plan to work with electronics while at IDM, purchase this from Digikey
+We'll be distributing equipment to you all soon.
 
 ### Reading
 #### Books
