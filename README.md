@@ -5,7 +5,7 @@
 * **Instructor:** Scott Fitzgerald
 * **Instructor Email:** shf220@nyu.edu
 * **Class meeting:** Wed 6:30pm – 9:20pm, 370 Jay Room 325 A
-* **Office Hours:** Link to sign up for office hours
+* **Office Hours:** [Tuesdays 2-4:30pm](https://calendar.google.com/calendar/selfsched?sstoken=UU5jZVJkYmh0Sk4yfGRlZmF1bHR8YThjZDQ3NjAxYjJlMDNhMWZiNTQ5OWJiYjRjMDMxYTQ)
 
 _NB : This syllabus is subject to change_
 
