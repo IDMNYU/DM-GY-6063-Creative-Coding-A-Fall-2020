@@ -15,8 +15,9 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * _Assignment_
     * **Read** Delusions of Dialogue: Control and Choice in Interactive Art by Jim Campbell
     * **Read** 
+    * **Suggested Reading** [Getting Started With p5.js](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/make-getting-started/9781457186769/) Chapters 
     * Create an online blog for the class and send me the link
-    * selfie or Sol Lewitt project
+    * Make a [selfie or a Sol Lewitt project](assignments.md) and post a link to it on your blog
     
  **No Class September 9, classes run on a Monday schedule**    
 
