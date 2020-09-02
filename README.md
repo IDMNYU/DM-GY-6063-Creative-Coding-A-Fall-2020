@@ -58,7 +58,6 @@ At the end of the course, students will :
 ### Important Dates
 * Wed September 2, Classes start
 * Tuesday, September 15 last day of drop/add
-* Monday, October 14 no classes/Zoom
 * Tuesday, November 3 last day to withdraw with a W
 * Thurs, November 26 - Friday, November 27 Thanksgiving break, no classes
 * Sunday, December 13 last day of classes in semester
