@@ -13,13 +13,14 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * drawing with p5js
   * brief intro to color
   * _Assignment_
-    * **Read** Delusions of Dialogue: Control and Choice in Interactive Art by Jim Campbell
-    * **Read** 
-    * **Suggested Reading** [Getting Started With p5.js](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/make-getting-started/9781457186769/) Chapters 
     * Create an online blog for the class and send me the link
     * Make a [selfie or a Sol Lewitt project](assignments.md) and post a link to it on your blog
+    * **Read** [Delusions of Dialogue: Control and Choice in Interactive Art by Jim Campbell](https://www.jstor.org/stable/1576847). Access provided online by NYU library.  Write a response to this on your blog, 150-250 words. What do you think of Campbell's articulation of art in a computer? 
+    * **Read** [pages 10-41 'What is Code' and 'From and Computers' in FORM+CODE](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/reader.action?docID=3387346&ppg=10) available online though NYU Libraries.
+    * **Suggested Reading** [Getting Started With p5.js](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/make-getting-started/9781457186769/) Chapters 1-3. Online access provided by NYU libraries.
     
- **No Class September 9, classes run on a Monday schedule**    
+**No Class September 9, classes run on a Monday schedule**    
+**I will be sending you videos to watch before class on Sept 16**
 
 * **WEEK 2 - September 16**
   * animation, moving things around on screen
