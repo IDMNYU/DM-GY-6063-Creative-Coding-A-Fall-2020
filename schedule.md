@@ -27,13 +27,15 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
     * watch [videos on variables, conditionals](https://www.youtube.com/playlist?list=PLnkvii1uWBvFCo84lUMwR2Sgxe1yWOt6Z)
     * optional video on [local development](https://www.youtube.com/watch?v=NTGebvhZ4kk)
   * discussion of campbell article
-  * review the work you did
+  * review your work, q&a - what worked for you and what didn't?
   * animation, and time discussion
   * _Assignment_
     * Watch the [videos on loops](https://www.youtube.com/playlist?list=PLnkvii1uWBvFPvNnW66SU9u5T1a35eKRp)
     * Watch the [videos  on functions]
-    * Optional but encouraged [video on translation]
-    * Create one of the following and post a link to the sketch on your website
+    * Optional but encouraged [videos on translation and interaction]
+    * Read 
+    * **Suggested Reading** [Getting Started With p5.js](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/make-getting-started/9781457186769/) Chapters 4-6. Online access provided by NYU libraries.
+    * **Create** one of the following and post a link to the sketch on your website
       * Make a clock with p5js. Functions like second(), hour() and minute() are useful here! The clock can be [analogous to a real-world clock](https://p5js.org/examples/input-clock.html) or it could be an [abstract way of telling time](https://www.openprocessing.org/sketch/855977) 
       * using your mouse and a simple shape (rect, ellipse, arc, triangle, line, polygon), create an interaction that causes the shape to demonstrate an emotion. It could be fear, attraction, desire, exhaustion. Your choice. Obviously mouseX and mouseY are helpful. Examples like this [easing function](https://p5js.org/examples/input-easing.html) might be inspirational, as would notes from the [12 principles of animation](https://vimeo.com/93206523) 
   
