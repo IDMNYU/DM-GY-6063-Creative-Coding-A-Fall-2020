@@ -31,8 +31,9 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * animation, and time discussion
   * _Assignment_
     * Watch the [videos on loops](https://www.youtube.com/playlist?list=PLnkvii1uWBvFPvNnW66SU9u5T1a35eKRp)
-    * Watch the [videos  on functions and interaction]
+    * Watch the [videos  on functions]
     * Optional but encouraged [videos on translation]
+    * **Read** [p5.js Tutorial on interaction](https://p5js.org/learn/interactivity.html)
     * **Read** [The Art of Interactive Design Chapter 1](http://proxy.library.nyu.edu/sso/skillport?context=4587). Online access provided by NYU libraries. **Write a response** to this on your blog — Crawford defines interaction as something that can happen along a continuum, from a simple switch to a deep and engaging conversation. How do you define interaction? Would you consider a book to be interactive? What about a plant you need to care for? How about a puppy? What about your sketches? 
     * **Suggested Reading** [Getting Started With p5.js](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/make-getting-started/9781457186769/) Chapters 4-6. Online access provided by NYU libraries.
     * **Create** one of the following and post a link to the sketch on your website
