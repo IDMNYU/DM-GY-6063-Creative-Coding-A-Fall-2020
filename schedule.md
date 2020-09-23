@@ -46,12 +46,12 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * question & answer time! nothimng should be unclear after this class ;)
   * you down with oop? A brief introduction to making objects in p5js
   * _Assignments_
-    * watch [videos on objects]
-    * watch the [video on arrays]
-    * Read [Objects of Our Affection : How Object Orientsation Made Computers a Meduim](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=769730&ppg=289) by Casey Alt. Online access provided by NYU libraries. It's a denser read than the other things we have enagged with so far, so give yourself some extra time.
-    * Write a response to Alt's chapter. He argues that computers became "media" and were no longer just big adding machines when data and interface became rolled into one. With your newfound perspective on what object oriented programming _is_ thanks to the videos above, how do you think this changed computation? What does this provide you? How can you see this being useful?
+    * **watch** [videos on objects]
+    * **watch** the [video on arrays]
+    * **Read** [Objects of Our Affection : How Object Orientsation Made Computers a Meduim](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=769730&ppg=289) by Casey Alt. Online access provided by NYU libraries. It's a denser read than the other things we have enagged with so far, so give yourself some extra time.
+    * **Write** a response to Alt's chapter. He argues that computers became "media" and were no longer just big adding machines when data and interface became rolled into one. With your newfound perspective on what object oriented programming _is_ thanks to the videos above, how do you think this changed computation? What does this provide you? How can you see this being useful?
     * **suggested reading** [Getting Started With p5.js](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4333728&ppg=173) Chapters 10 & 11. Online access provided by NYU libraries.    
-    * Watch [the video for Around the World](https://www.youtube.com/watch?v=LKYPYj2XX80) by Daft Punk. While you're enjoying the music, think about how each of the different dancers/monsters in the video are like an object. They are similar, but have their own behaviors. Make a sketch that has a dance party. Use multiple instances of a class, or create multiple classes and many objects thsat have their own dance party. Your idea of a dance party may not have actual bodies, that's ok. Explore different kinds of ways of creating objects with unique behaviors. Post this on your class site.
+    * **Watch** [the video for Around the World](https://www.youtube.com/watch?v=LKYPYj2XX80) by Daft Punk. While you're enjoying the music, think about how each of the different dancers/monsters in the video are like an object. They are similar, but have their own behaviors. **Create** a sketch that has a dance party. Use multiple instances of a class, or create multiple classes and many objects thsat have their own dance party. Your idea of a dance party may not have actual bodies, that's ok. Explore different kinds of ways of creating objects with unique behaviors. Post this on your class site.
     
 * **WEEK 4 - September 30**
   * more about arrays 
