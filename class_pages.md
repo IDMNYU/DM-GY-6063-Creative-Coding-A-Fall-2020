@@ -1,7 +1,7 @@
 # Your sites
 
 * [Lauren](https://medium.com/code-of-creativity/)
-* [Sia]()
+* [Sia](https://medium.com/@xc2028)
 * [Nia](https://wp.nyu.edu/tandonschoolofengineering-dmgy6063_nijiacui/)
 * [Fiona](https://www.fionaguxuefeng.com/creative-coding)
 * [Leigh](https://medium.com/leigh-learns-creative-coding)
