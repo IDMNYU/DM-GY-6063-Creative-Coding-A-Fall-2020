@@ -47,7 +47,7 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * you down with oop? A brief introduction to making objects in p5js
   * _Assignments_
     * **watch** [videos on objects](https://www.youtube.com/playlist?list=PLnkvii1uWBvHpcbXFMlbSsCys2UhtMr7w)
-    * **watch** the [video on arrays]
+    * **watch** the [video on arrays](https://www.youtube.com/playlist?list=PLnkvii1uWBvFGoi0yz3Fx93F4tlsucJ03)
     * **Read** [Objects of Our Affection : How Object Orientsation Made Computers a Meduim](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=769730&ppg=289) by Casey Alt. Online access provided by NYU libraries. It's a denser read than the other things we have enagged with so far, so give yourself some extra time.
     * **Write** a response to Alt's chapter. He argues that computers became "media" and were no longer just big adding machines when data and interface became rolled into one. With your newfound perspective on what object oriented programming _is_ thanks to the videos above, how do you think this changed computation? What does this provide you? How can you see this being useful?
     * **suggested reading** [Getting Started With p5.js](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4333728&ppg=173) Chapters 10 & 11. Online access provided by NYU libraries.    
