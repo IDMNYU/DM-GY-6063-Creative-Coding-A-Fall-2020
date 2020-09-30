@@ -8,7 +8,7 @@
 * [Jenny](https://www.hahajenny.com/ccprocessblog)
 * [Lily](https://lily-hsiao.tumblr.com)
 * [Ariel](http://sites.bxmc.poly.edu/~arielli/CreativeCoding/)
-* [Jon](https://phanman71.github.io/jons_github/)
+* [Jon](https://phanman71.github.io/idm/)
 * [Irwin](https://note.itdtp.com/nyu/creativecoding/)
 * [Tina](https://tinasolo.com/category/cc/)
 * [Xianghan](https://dadadadawang.tumblr.com)
