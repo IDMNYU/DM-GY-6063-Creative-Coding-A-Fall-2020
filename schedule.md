@@ -54,7 +54,7 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
     * **Watch** [the video for Around the World](https://www.youtube.com/watch?v=LKYPYj2XX80) by Daft Punk. While you're enjoying the music, think about how each of the different dancers/monsters in the video are like an object. They are similar, but have their own behaviors. **Create** a sketch that has a dance party. Use multiple instances of a class, or create multiple classes and many objects thsat have their own dance party. Your idea of a dance party may not have actual bodies, that's ok. Explore different kinds of ways of creating objects with unique behaviors. Post this on your class site.
     
 * **WEEK 4 - September 30**
-  * questions and answers about everything you've ever wanted to know regarding objects and arrays
+  * questions and answers about objects and arrays
   * organizing your code into multiple files - aka bliss
   * a bit about pseudocode
   * _Assignments_
@@ -62,7 +62,7 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
     * **read** [the p5js guide on debugging](https://p5js.org/learn/debugging.html)
     * **watch** Objects talking with other objects
     * **watch** More about arrays
-    * **Create** a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) _or_ create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse.
+    * **Create** a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) _or_ create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
     
 * **[WEEK 5 - October 7]**
   * loading text
