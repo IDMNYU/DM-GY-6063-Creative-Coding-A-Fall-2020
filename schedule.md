@@ -54,11 +54,12 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
     * **Watch** [the video for Around the World](https://www.youtube.com/watch?v=LKYPYj2XX80) by Daft Punk. While you're enjoying the music, think about how each of the different dancers/monsters in the video are like an object. They are similar, but have their own behaviors. **Create** a sketch that has a dance party. Use multiple instances of a class, or create multiple classes and many objects thsat have their own dance party. Your idea of a dance party may not have actual bodies, that's ok. Explore different kinds of ways of creating objects with unique behaviors. Post this on your class site.
     
 * **WEEK 4 - September 30**
+  * [Bradford Paley's CodeProfiles](http://wbradfordpaley.com/live/#)
   * questions and answers about objects and arrays
   * organizing your code into multiple files - aka bliss
   * a bit about pseudocode
   * _Assignments_
-    * **watch** [these 4 short videos about debugging](https://vimeo.com/channels/debugging) It's about code _and_ hardware, but it's super usefiul for orienting yourself mentally to tackle this stupid important process 
+    * **watch** [these 4 short videos about debugging](https://vimeo.com/channels/debugging) It's about code _and_ hardware, but it's super useful for orienting yourself mentally to tackle this stupid important process 
     * **read** [the p5js guide on debugging](https://p5js.org/learn/debugging.html)
     * **watch** Objects talking with other objects
     * **watch** More about arrays
