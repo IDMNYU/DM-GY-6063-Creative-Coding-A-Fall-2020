@@ -61,7 +61,7 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * _Assignments_
     * **watch** [these 4 short videos about debugging](https://vimeo.com/channels/debugging) It's about code _and_ hardware, but it's super useful for orienting yourself mentally to tackle this stupid important process 
     * **read** [the p5js guide on debugging](https://p5js.org/learn/debugging.html)
-    * **watch** Objects talking with other objects
+    * **watch** [Objects talking with other objects](https://www.youtube.com/playlist?list=PLnkvii1uWBvEF5xAptvHOpn7tXpDvBKty)
     * **watch** More about arrays
     * **Create** a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) _or_ create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
     
