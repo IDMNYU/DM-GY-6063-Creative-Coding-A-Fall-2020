@@ -73,6 +73,7 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * _Assignments_
     * **watch** [working with APIs and JSON](https://www.youtube.com/playlist?list=PLnkvii1uWBvHG11Cyyvb3rxC5QXi7OMzH)
     * **Suggested Reading** [Getting Started With p5.js](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/make-getting-started/9781457186769/) Chapter 12 on Data. Online access provided by NYU libraries.    
+    * **read** [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api) by Jer Thorp reflect of how you can use data from an API to tell a story or be persuasive.
     * **create** a sketch that calls an API, processes the data, and visualizes it somehow. A non-exhaistive list of [publically available APIs can be found here](https://github.com/public-apis/public-apis)
     * **write** a proposal for your midterm project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge. 
     
