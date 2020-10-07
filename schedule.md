@@ -66,9 +66,15 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
     * **Create** a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) _or_ create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
     
 * **[WEEK 5 - October 7]**
-  * loading text
-  * working with APIs / data viz
+  * review work
+  * Vectors
+  * recording things
   * discuss midterm
+  * _Assignments_
+    * **watch** [working with APIs and JSON](https://www.youtube.com/playlist?list=PLnkvii1uWBvHG11Cyyvb3rxC5QXi7OMzH)
+    * **Suggested Reading** [Getting Started With p5.js](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/make-getting-started/9781457186769/) Chapter 12 on Data. Online access provided by NYU libraries.    
+    * **create** a sketch that calls an API, processes the data, and visualizes it somehow. A non-exhaistive list of [publically available APIs can be found here](https://github.com/public-apis/public-apis)
+    * **write** a proposal for your midterm project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge. 
     
 * **[WEEK 6 - October 14]**
   * working with libraries
