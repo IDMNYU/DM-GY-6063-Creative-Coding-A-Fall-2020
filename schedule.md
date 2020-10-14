@@ -78,10 +78,14 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
     * **write** a proposal for your midterm project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge. 
     
 * **[WEEK 6 - October 14]**
+  * Review your work with APIs
+  * Discuss your midterms
   * working with libraries
-  * interfaces & the DOM
-  * audio and video
-
+  * _Assignments_
+    * **watch** this series of videos on the DOM and libraries in p5js
+    * **watch** at least one of these video series video tracking, audio, rita (text manipulation), or ml5 (machine learning)
+    * **create** a small sketch that uses a library to enahnce a sketch. For example, use the DOM to create sliders or buttons for interfaces, use peasycam to navigate a 3D space, use p5.scribble to mimic hand drawn images, etc etc etc. 
+    * **continue** to work on your midterm. You should have progressed to a point where you have a skeleton that has some basic functionality. You fully and write out as pseudocode/comments what functions, classes and objects you will need and what they will do. 
 * **[WEEK 7 - October 21]**
   * generative art
     
