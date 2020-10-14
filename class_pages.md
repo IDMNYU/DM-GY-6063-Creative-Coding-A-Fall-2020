@@ -11,7 +11,7 @@
 * [Jon](https://phanman71.github.io/idm/)
 * [Irwin](https://note.itdtp.com/nyu/creativecoding/)
 * [Tina](https://tinasolo.com/category/cc/)
-* [Xianghan](https://dadadadawang.tumblr.com)
+* [Sharon](https://dadadadawang.tumblr.com)
 * [Stacey](https://staceyao.tumblr.com)
 * [Danshan](https://danshaniscoding.wordpress.com/)
 * [Cory](https://medium.com/@coryyzhao)
