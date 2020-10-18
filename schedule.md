@@ -82,11 +82,14 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * Discuss your midterms
   * working with libraries
   * _Assignments_
-    * **watch** this series of videos on the DOM and libraries in p5js
-    * **watch** at least one of these video series video tracking, audio, rita (text manipulation), or ml5 (machine learning)
+    * **watch** [this series of videos on the DOM](https://www.youtube.com/playlist?list=PLnkvii1uWBvGq4euiix5L8Hvi1XqtXNEh)
+    * **watch** [this video series on the audio library](https://www.youtube.com/playlist?list=PLnkvii1uWBvG6CDNIpcjq8pVfNQDIja0E)
+    * **optionally watch** these videos on the [scribble](https://www.youtube.com/watch?v=bCeDOS0dRIM&feature=youtu.be) and [RiTa](https://www.youtube.com/watch?v=YO-OxXyceZs) libraries
     * **create** a small sketch that uses a library to enahnce a sketch. For example, use the DOM to create sliders or buttons for interfaces, use peasycam to navigate a 3D space, use p5.scribble to mimic hand drawn images, etc etc etc. 
     * **continue** to work on your midterm. You should have progressed to a point where you have a skeleton that has some basic functionality. You fully and write out as pseudocode/comments what functions, classes and objects you will need and what they will do. 
+    
 * **[WEEK 7 - October 21]**
+  * video and image manipulattion
   * generative art
     
 * **WEEK 8 - October 28**   
