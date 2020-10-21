@@ -89,24 +89,34 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
     * **continue** to work on your midterm. You should have progressed to a point where you have a skeleton that has some basic functionality. You fully and write out as pseudocode/comments what functions, classes and objects you will need and what they will do. 
     
 * **[WEEK 7 - October 21]**
-  * video and image manipulattion
-  * generative art
+  * review questions abotu libraries and use - who found something cool?
+  * midterm workshop
+  * video and image manipulation lecture
+  * **optionally watch** video tracking and image manipulation videos
+  * **finish** your midterm project. **Write** a post about your work, describing what you did and why you did it. Take a step back and refelct on what you would have done differently (if anything!) and the challenges you faced/overcame - this could be conceptual, technical, or aesthetic. Explain how you might continue to work on this project if you had the time and motivation to do so. Remember, _your project must have the following elements_ : 1) pseudocode of what you set out to do, 2) well commented code that explains what functions, classes, and objects are doing in your program 3) clear attribution with links to other's code as appropriate.
     
 * **WEEK 8 - October 28**   
-  * Midterm presentations
+  * Midterm presentations - everyone will have 5 minutes to present their work. Show what you did, share the link in the chat, and describe your process. What did you learn from this exercise?
+  * For those of you coming to class on Nov 4, bring the Arduino kit you received in the backpack you picked up. For thoae of you who are remote, make sure you have that available.
+  * **read** these harebarined [notes on electricity](/week1/index.md)
+  * **read** these harebarined [notes on digital input and output](/week2/index.md)
     
 * **WEEK 9 - November 4**
   * programming an arduino
-  * digital input & output
+  * digital input & output in class
+  * make a switch
     
 * **WEEK 10 - November 11**
-  * analog input & output
+  * analog input & output in class
+  * make a love compatiability machine
     
 * **WEEK 11 - November 18**
-  * Serial communication with a microcontroler
+  * Bluetooth communication with a microcontroller in class
+  * control a sketch with a physical interface
  
 * **WEEK 12 - November 25**
-  * Final project proposals
+  * Advanced topics
+  * final project proposal due
     
 * **WEEK 13 - December 2**
   * Final project reviews
