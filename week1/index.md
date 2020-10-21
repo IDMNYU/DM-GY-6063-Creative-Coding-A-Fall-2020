@@ -1,4 +1,4 @@
-# Class notes and reference 
+# Some basic notes on electricity 
 
 Computers are great adding machines. They’re also great at comparing things that usually don’t work well together. [Jim Campbell's animation](http://jimcampbell.tv/portfolio/miscellaneous_references/) about various types of inputs and outputs demonstrates some kinds of inputs and putputs. Thanks to the magic of accessible computational media, we can get think about a wide varierty of applications for these tools. Visual arts, novel user interfaces, interactive experiences, these are just some of the kinds of things we can create while drawing on physical phenomena. Drawing on the real world makes our applications relevant and timely to folks.
 
