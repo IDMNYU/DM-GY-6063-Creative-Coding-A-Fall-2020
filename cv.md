@@ -46,7 +46,7 @@ You can manipulate the image however you like. Similar to a bouncing, spinning r
       }
     }
 
-Dan Shiffman’s pointillism example is pretty cool, and demonstrates how to access the values of the pixels in the image.
+[Dan Shiffman’s pointillism example](https://p5js.org/examples/image-pointillism.html) is pretty cool, and demonstrates how to access the values of the pixels in the image.
 
 loadPixels() and get() will let us access the r/g/b values in the image.
 
