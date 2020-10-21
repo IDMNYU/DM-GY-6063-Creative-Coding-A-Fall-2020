@@ -93,6 +93,8 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * midterm workshop
   * video and image manipulation lecture
   * **optionally watch** video tracking and image manipulation videos
+  * **skim** these notes on [video and image manipulation](http://idmnyu.github.io)
+  * **optionally read** my harebrained [notes on video tracking and computr vision](cv.md)
   * **finish** your midterm project. **Write** a post about your work, describing what you did and why you did it. Take a step back and refelct on what you would have done differently (if anything!) and the challenges you faced/overcame - this could be conceptual, technical, or aesthetic. Explain how you might continue to work on this project if you had the time and motivation to do so. Remember, _your project must have the following elements_ : 1) pseudocode of what you set out to do, 2) well commented code that explains what functions, classes, and objects are doing in your program 3) clear attribution with links to other's code as appropriate.
     
 * **WEEK 8 - October 28**   
