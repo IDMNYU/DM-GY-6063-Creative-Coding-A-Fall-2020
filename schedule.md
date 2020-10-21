@@ -65,7 +65,7 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
     * **watch** [More about arrays](https://www.youtube.com/playlist?list=PLnkvii1uWBvFGoi0yz3Fx93F4tlsucJ03)
     * **Create** a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) _or_ create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
     
-* **[WEEK 5 - October 7]**
+* **WEEK 5 - October 7**
   * review work
   * Vectors
   * recording things
@@ -77,7 +77,7 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
     * **create** a sketch that calls an API, processes the data, and visualizes it somehow. A non-exhaistive list of [publically available APIs can be found here](https://github.com/public-apis/public-apis)
     * **write** a proposal for your midterm project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge. 
     
-* **[WEEK 6 - October 14]**
+* **WEEK 6 - October 14**
   * Review your work with APIs
   * Discuss your midterms
   * working with libraries
@@ -88,8 +88,8 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
     * **create** a small sketch that uses a library to enahnce a sketch. For example, use the DOM to create sliders or buttons for interfaces, use peasycam to navigate a 3D space, use p5.scribble to mimic hand drawn images, etc etc etc. 
     * **continue** to work on your midterm. You should have progressed to a point where you have a skeleton that has some basic functionality. You fully and write out as pseudocode/comments what functions, classes and objects you will need and what they will do. 
     
-* **[WEEK 7 - October 21]**
-  * review questions abotu libraries and use - who found something cool?
+* **WEEK 7 - October 21**
+  * review questions about libraries and use - who found something cool?
   * midterm workshop
   * video and image manipulation lecture
   * **optionally watch** video tracking and image manipulation videos
