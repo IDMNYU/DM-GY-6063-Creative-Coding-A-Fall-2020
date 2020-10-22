@@ -18,33 +18,70 @@ We can easily load and display images. While it’s possible to load an image fr
     
 You can manipulate the image however you like. Similar to a bouncing, spinning rectangle.
 
-    let img;  // Declare variable img
+    // Display an image and bounce it around at 1/2 size
+    
+    let img; // Declare variable img
     let xPos, yPos;
     let xDir, yDir;
-    function setup() {
-      createCanvas(600, 370);
-      let = loadImage("assets/tenor.gif");  // Load the image
-      yPos = random(height - 10);
-      xPos = random(width - 10);
-      xDir = random(-5, 5);
-      yDir = random(-5, 5);
+    let rot = 0.0;
+    let iw, ih; // variables for the image width and height
+    
+    // Load the image
+    function preload() {
+     img = loadImage("tenor.gif"); 
     }
     
-    function draw() {
-      background(255);
-      // Displays the image and bounce it around at 1/4 size
-      image(img, xPos, yPos, img.width/4, img.height/4);
+    function setup() {
+     createCanvas(windowWidth, windowHeight);
     
+     // img.width/img.height are attributes about
+     // your image that can be used as a variable
+     iw = img.width;
+     ih = img.height;
+    
+     // randomly position the picture in the sketch
+     yPos = random(ih, height - ih);
+     xPos = random(iw, width - iw);
+    
+     xSpeed = random(-3, 3);
+     yDir = random(-3, 3);
+
+    }
+
+    function draw() {
+     background(255);
+     
+     // image is drawn from top left corner
+     // to bottom right corner by default
+     // imageMode() can be called to change the 
+     // way it's drawn, similar to rectMode
+     
+     imageMode(CENTER);
+     
+     // the code below uses translate to 
+     // relocate the x, y coordinates to the center of the image to move and rotate the image
+     
+     push();
+     translate(xPos, yPos);
+     rotate(rot);
+     // draw the image at 1/2 it's native size
+     image(img, 0, 0, iw/2, ih/2);
+     pop();
+     
+     rot += .01;
+     
      xPos += xDir;
      yPos += yDir;
-    
-      if (xPos > width  || xPos < 0) {
+     
+    if (xPos >= width || xPos <= 0) {
         xDir *= -1;
-      }
-      if (yPos > height || yPos < 0) {
+     }
+    if (yPos >= height || yPos <= 0) {
         yDir *= -1;
-      }
+        console.log(yPos);
+     }
     }
+
 
 [Dan Shiffman’s pointillism example](https://p5js.org/examples/image-pointillism.html) is pretty cool, and demonstrates how to access the values of the pixels in the image.
 
