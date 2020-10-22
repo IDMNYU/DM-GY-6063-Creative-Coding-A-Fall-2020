@@ -22,7 +22,7 @@ You can manipulate the image however you like. Similar to a bouncing, spinning r
     
     let img; // Declare variable img
     let xPos, yPos;
-    let xDir, yDir;
+    let xSpeed, ySpeed;
     let rot = 0.0;
     let iw, ih; // variables for the image width and height
     
@@ -44,7 +44,7 @@ You can manipulate the image however you like. Similar to a bouncing, spinning r
      xPos = random(iw, width - iw);
     
      xSpeed = random(-3, 3);
-     yDir = random(-3, 3);
+     ySpeed = random(-3, 3);
 
     }
 
@@ -70,15 +70,14 @@ You can manipulate the image however you like. Similar to a bouncing, spinning r
      
      rot += .01;
      
-     xPos += xDir;
-     yPos += yDir;
+     xPos += xSpeed;
+     yPos += ySpeed;
      
     if (xPos >= width || xPos <= 0) {
-        xDir *= -1;
+        xSpeed *= -1;
      }
     if (yPos >= height || yPos <= 0) {
-        yDir *= -1;
-        console.log(yPos);
+        ySpeed *= -1;
      }
     }
 
