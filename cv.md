@@ -92,17 +92,27 @@ We can use the DOM library in p5js to give us access to videos and the camera. D
 
 We need to make a capture variable to get stuff from a camera. createCapture() stores the images in the object, which can be accessed just like an image.
 
-    let capture; // variable for the video
-    
-    function setup() {
-      createCanvas(320, 240);
-      capture = createCapture(VIDEO); // capture the video
-      capture.size(320, 240); // camera size
+    let video;
+
+    function preload(){
+     // specify multiple formats for different browsers
+     video = createVideo(['spoops.mp4', 'spoops.webm']);
     }
-    
+
+    function setup() {
+     createCanvas(245, 440);
+
+     // by default video shows up in separate DOM
+     // element outside your canvas. 
+     // hide it to draw to the canvas instead
+     video.hide(); 
+     // play and loop the video
+     video.loop();
+    }
+
     function draw() {
-      background(255);
-      image(capture, 0, 0, 320, 240); // write to canvas
+     //background(255);
+     image(video, 0, 0, mouseX, mouseY); // draw the video frame to canvas
     }
 
 A movie is similar to an image, but it … moves
