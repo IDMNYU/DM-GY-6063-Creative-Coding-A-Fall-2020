@@ -92,6 +92,26 @@ We can use the DOM library in p5js to give us access to videos and the camera. D
 
 We need to make a capture variable to get stuff from a camera. createCapture() stores the images in the object, which can be accessed just like an image.
 
+    let capture;  // variable to hold the video capture
+
+    function setup() {
+     createCanvas(640, 480);
+     // create the capture object
+     capture = createCapture(VIDEO);
+     // set the size of the capture
+     capture.size(320, 240);
+     // hide the HTML video
+     capture.hide();
+    }
+
+    function draw() {
+     background(255);
+     // draw the video
+     image(capture, 0, 0);
+    }
+
+A movie is similar to an image, but it … moves
+
     let video;
 
     function preload(){
@@ -115,44 +135,47 @@ We need to make a capture variable to get stuff from a camera. createCapture() s
      image(video, 0, 0, mouseX, mouseY); // draw the video frame to canvas
     }
 
-A movie is similar to an image, but it … moves
-
-    // pinched from https://itp.nyu.edu/classes/cc-s16/vision/
-    
-    let playing = false; // a boolean for switching between states
-    let fingers; // variable to hold our video (video that happens to be about fingers)
-    
-    function setup() {
-      fingers = createVideo('assets/fingers.mov'); // refer to your video file here
-    }
-    // plays or pauses the video depending on current state
-    function mousePressed() {
-      if (playing) {// if you click the mouse and the video is already playing
-        fingers.pause();//then pause the video
-      } else { // if you click the mouse and the video is not already playing
-        fingers.loop(); // then play and loop the video
-      }
-      playing = !playing; // on each click set your playing boolean to be the opposite of what it already was. this way it will always update correctly  
-    }
-
 But my video is backwards! You can mirror your image with translate() and scale().
 
-    let capture; // variable for the video
-    
+    let capture; // variable to hold the video capture
+
     function setup() {
-      createCanvas(320, 240);
-      capture = createCapture(VIDEO); // capture the video
-      capture.size(320, 240); // camera size
-      capture.hide();
+     createCanvas(640, 480);
+     // create the capture object
+     capture = createCapture(VIDEO);
+     // set the size of the capture
+     capture.size(320, 240);
+     // hide the HTML video
+     capture.hide();
     }
+
     function draw() {
-      background(255);
-      push();
-      translate(width, 0);
-      scale(-1.0, 1.0);
-      image(capture, 0, 0); // write to canvas
-      pop();
-    }
+     background(255);
+  
+     // draw the regular image
+     image(capture, 0, 0);
+  
+     // draw the mirrored image
+     push();
+       translate(width, 0);
+       scale(-1.0, 1);
+       image(capture, 0, 0);
+       pop();
+  
+       // draw an upside down image
+       push();
+       translate(0, height);
+       scale(1.0, -1);
+       image(capture, 0, 0);
+       pop();
+  
+       // draw a mirrored and upside down image
+       push();
+       translate(width, height);
+       scale(-1.0, -1);
+       image(capture, 0, 0);
+       pop();
+     }
 
 Get the PIXELSSSSSS
 
