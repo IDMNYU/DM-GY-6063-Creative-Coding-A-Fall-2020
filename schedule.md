@@ -102,12 +102,15 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * For those of you coming to class on Nov 4, bring the Arduino kit you received in the backpack you picked up. For thoae of you who are remote, make sure you have that available.
   * **read** these harebarined [notes on electricity](/week1/index.md)
   * **watch** these videos on [your Arduino Kit](https://www.youtube.com/playlist?list=PLnkvii1uWBvFWWJ11lI1ml6p2pd5uqnHe)
-  * **read** these harebarined [notes on digital input and output](/week2/index.md)
+  * **watch** these videos on [electricity and circuits](https://www.youtube.com/playlist?list=PLnkvii1uWBvEG_Vdgf9PDtCaDZCem3eoG)
+  * **buid** a circuit with a switch you make on your own that can be operated without using your hands. Think abotu what you have that is conductive. Aluminum foil works well. Be careful you do not cause a short! Always unplug your Arduino before changing anything in your circuit, and check to makw aure there are no loose wires.
     
 * **WEEK 9 - November 4**
   * programming an arduino
   * digital input & output in class
   * make a switch
+  * **read** these harebarined [notes on digital input and output](/week2/index.md)
+
     
 * **WEEK 10 - November 11**
   * analog input & output in class
