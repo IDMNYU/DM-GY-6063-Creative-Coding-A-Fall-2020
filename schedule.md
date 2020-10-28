@@ -101,6 +101,7 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * Midterm presentations - everyone will have 5 minutes to present their work. Show what you did, share the link in the chat, and describe your process. What did you learn from this exercise?
   * For those of you coming to class on Nov 4, bring the Arduino kit you received in the backpack you picked up. For thoae of you who are remote, make sure you have that available.
   * **read** these harebarined [notes on electricity](/week1/index.md)
+  * **watch** these videos on [your Arduino Kit](https://www.youtube.com/playlist?list=PLnkvii1uWBvFWWJ11lI1ml6p2pd5uqnHe)
   * **read** these harebarined [notes on digital input and output](/week2/index.md)
     
 * **WEEK 9 - November 4**
