@@ -43,4 +43,4 @@ This curcuit has 2 LEDs and 2 switches in parallel (similar to || in programming
 
 Multimeters are great tools for figuring out what is going on inside a circuit. [Adafruit has a very nice tutorial on how to use one.](https://learn.adafruit.com/multimeters/overview)
 
-Now that you have used a switch out of the box, make your own. [Here is an example of how you should be thinking about the exercise for the week.](https://itp.nyu.edu/~tlc345/blog/mustache-switch/)
+Now that you have used a switch out of the box, make your own. 
