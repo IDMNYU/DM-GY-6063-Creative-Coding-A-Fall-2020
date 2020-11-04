@@ -83,13 +83,13 @@ The [delay()](https://www.arduino.cc/en/Reference/Delay) function makes your pro
 
 Let’s build a circuit!
 
-![LED and Arduino on a breaboard](/week3/LED_output.png)
+![LED and Arduino on a breaboard](/week2/LED_output.png)
 
 Connect the anode (longer leg) of the LED to pin 2. Connect the cathode (short leg) to ground through a resistor (use one of your 330ohm resistors). Plug the Arduino into your computer and get ready to upload the code.
 
 You need to select which board you’re using in the “Tools” menu, and the port the board is connected to. This insures the IDE prepares the code for the right kind of board, and tries to communicate on the proper port. Once you've selected the Nano 33 BLE board and chosen your port, press the upload button.
 
-~[Upload button in the Arduino IDE](https://www.arduino.cc/wiki/static/0bd943210336ba4022b1b4e493775d82/008e2/UNO_Upload.png)
+![Upload button in the Arduino IDE](https://www.arduino.cc/wiki/static/0bd943210336ba4022b1b4e493775d82/008e2/UNO_Upload.png)
 
 Hooray! you should see some lights on the board flash, then the LED will start to blink!
 
