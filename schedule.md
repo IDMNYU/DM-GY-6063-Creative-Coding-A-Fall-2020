@@ -103,14 +103,17 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * **read** these harebarined [notes on electricity](/week1/index.md)
   * **watch** these videos on [your Arduino Kit](https://www.youtube.com/playlist?list=PLnkvii1uWBvFWWJ11lI1ml6p2pd5uqnHe)
   * **watch** these videos on [electricity and circuits](https://www.youtube.com/playlist?list=PLnkvii1uWBvEG_Vdgf9PDtCaDZCem3eoG)
-  * **buid** a circuit with a switch you make on your own that can be operated without using your hands. Think abotu what you have that is conductive. Aluminum foil works well. Be careful you do not cause a short! Always unplug your Arduino before changing anything in your circuit, and check to makw aure there are no loose wires.
+  * **buid** a circuit with a switch you make on your own that can be operated without using your hands. Think about what you have that is conductive. Aluminum foil works well. Be careful you do not cause a short! Always unplug your Arduino before changing anything in your circuit, and check to make sure there are no loose wires.
     
 * **WEEK 9 - November 4**
-  * programming an arduino
-  * digital input & output in class
-  * make a switch
+  * Using a multimeter
+  * what's up switches?
+  * review your work - questions?
   * **read** these harebarined [notes on digital input and output](/week2/index.md)
-
+  * **watch** these videos on setting up the Arduino IDE and what all the pins on your board do
+  * **watch** these videos on digital input and output
+  * **read** this article from [Don Norman, Attractive Thigs Work Better](https://jnd.org/emotion_design_attractive_things_work_better/)
+  * **buid** With the switch you built last week (or a different one if you want to experiment) use the Arduino to provide some meaningful feedback on what the action you engage in means. For example — if you are trying to notify someone that their posture is good or bad, could you make a switch that was based on how they stood, and notify them if they are not straight? What about gettting someone to smile for a camera? Using the digital input and output provide feedback to your user that is meaningful in context. Labeling LEDs with text, or using different colored lights to indicate things is helpful, try diffusing the light with paper or a ping pong ball, how does that change the quality of the light?
     
 * **WEEK 10 - November 11**
   * analog input & output in class
