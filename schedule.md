@@ -116,8 +116,13 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * **buid** With the switch you built last week (or a different one if you want to experiment) use the Arduino to provide some meaningful feedback on what the action you engage in means. For example — if you are trying to notify someone that their posture is good or bad, could you make a switch that was based on how they stood, and notify them if they are not straight? What about gettting someone to smile for a camera? Using the digital input and output provide feedback to your user that is meaningful in context. Labeling LEDs with text, or using different colored lights to indicate things is helpful, try diffusing the light with paper or a ping pong ball, how does that change the quality of the light?
     
 * **WEEK 10 - November 11**
-  * analog input & output in class
-  * make a love compatiability machine
+  * **watch** these videos on [analog input & output](https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH)
+  * **watch** these videos on [servos and libraries](https://www.youtube.com/playlist?list=PLnkvii1uWBvGVXOz4owDTtIItr07wVluC)  
+  * **optionally watch** these videos on the built in sensors of your Arduino (IMUs! an acceleromteter, gyroscope and magnometer)
+  * **optionally watch** this video on building a capacitive touch sensor  
+  * **read** the chapter I will distribute in slack 
+  * **read** [these notes on analog Input/output](/week3/index.md)   
+  * **make/build/code** a love compatiability machine. Using analog input and/or analog output, make a love compatiability machine. This could be 2 photocells that have an LED as an output, or a pair of buttons that enagge a servo motor, or one photocell that people need to clasp hands over, or anything else that demonstrates how to display how compatiable people are. 
     
 * **WEEK 11 - November 18**
   * Bluetooth communication with a microcontroller in class
