@@ -113,7 +113,7 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * **watch** these [videos on setting up the Arduino IDE and what all those pins on your board do](https://www.youtube.com/playlist?list=PLnkvii1uWBvHxAOTwYt6S-NZjmy_GiXVF)
   * **watch** these [videos on digital input and output](https://www.youtube.com/playlist?list=PLnkvii1uWBvFSOE0ZNar37xN8COzZhXaa)
   * **read** this article from [Don Norman, Attractive Things Work Better](https://jnd.org/emotion_design_attractive_things_work_better/)
-  * **buid** With the switch you built last week (or a different one if you want to experiment) use the Arduino to provide some meaningful feedback on what the action you engage in means. For example — if you are trying to notify someone that their posture is good or bad, could you make a switch that was based on how they stood, and notify them if they are not straight? What about gettting someone to smile for a camera? Using the digital input and output provide feedback to your user that is meaningful in context. Labeling LEDs with text, or using different colored lights to indicate things is helpful, try diffusing the light with paper or a ping pong ball, how does that change the quality of the light?
+  * **build** With the switch you built last week (or a different one if you want to experiment) use the Arduino to provide some meaningful feedback on what the action you engage in means. For example — if you are trying to notify someone that their posture is good or bad, could you make a switch that was based on how they stood, and notify them if they are not straight? What about gettting someone to smile for a camera? Using the digital input and output provide feedback to your user that is meaningful in context. Labeling LEDs with text, or using different colored lights to indicate things is helpful, try diffusing the light with paper or a ping pong ball, how does that change the quality of the light?
     
 * **WEEK 10 - November 11**
   * **watch** these videos on [analog input & output](https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH)
@@ -125,15 +125,19 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * **make/build/code** a love compatiability machine. Using analog input and/or analog output, make a love compatiability machine. This could be 2 photocells that have an LED as an output, or a pair of buttons that enagge a servo motor, or one photocell that people need to clasp hands over, or anything else that demonstrates how to display how compatiable people are. 
     
 * **WEEK 11 - November 18**
-  * Bluetooth communication with a microcontroller in class
-  * control a sketch with a physical interface
+  * review love machines!
+  * Serial communication with a microcontroller in class
+  * **read** these [notes on serial commuication](/week9/serial.md) 
+  * **Watch** these videos to review serial communication
+  * **Optionally Watch** these videos on Bluettoth communciatuon
+  * **make/build/code** control a sketch with a physical interface - take one of your early p5 sketches and make it controllable with a switch, pot or photocell using serial or bluetooth communcation. Alternatively, create a new p5 sketch that reacts to soem sort of input. How does this change in control transform the exerience of using the sketch? 
  
 * **WEEK 12 - November 25**
   * Advanced topics
-  * final project proposal due
+  * final project proposal 
     
 * **WEEK 13 - December 2**
-  * Final project reviews
+  * Final project reviews - reality check / workshopping
     
 * **WEEK 14 - December 9**
   * Final project presentation
