@@ -129,7 +129,7 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
   * Serial communication with a microcontroller in class
   * **read** these [notes on serial commuication](/week9/serial.md) 
   * **Watch** these [videos to review serial communication](https://www.youtube.com/playlist?list=PLnkvii1uWBvEprzkCJZbSAWsiqncWodoQ)
-  * **Optionally Watch** these [videos on Bluetooth communcation]()
+  * ~~**Optionally Watch** these [videos on Bluetooth communcation]()~~ Life conspired against us, and I was ubnable to make this video content. I strongly reccommend [Tom Igoe's notes on BLE communitcation](https://itp.nyu.edu/physcomp/labs/lab-bluetooth-le-and-p5-ble/) 
   * **make/build/code** control a sketch with a physical interface - take one of your early p5 sketches and make it controllable with a switch, pot or photocell using serial or bluetooth communcation. Alternatively, create a new p5 sketch that reacts to soem sort of input. How does this change in control transform the exerience of using the sketch? 
  
 * **WEEK 12 - November 25**
