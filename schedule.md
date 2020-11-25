@@ -135,9 +135,13 @@ _this may change! but probably not until later in the semester_ **Lies - I'm cha
 * **WEEK 12 - November 25**
   * Advanced topics
   * final project proposal 
+  * **start working** on your final project! Write up a block diagram or pseudocode of your projct. Think about all the materials, libraries or code you will need. Start the implementation of your projects!.
+  * **take at least one full dday off this weekend to rest!** 
     
 * **WEEK 13 - December 2**
   * Final project reviews - reality check / workshopping
     
 * **WEEK 14 - December 9**
   * Final project presentation
+  
+* **Project and documetrnation due completely on Wed Dec 16**  
