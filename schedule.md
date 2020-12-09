@@ -1,7 +1,5 @@
 # Weekly Schedule
 
-_this may change! but probably not until later in the semester_ **Lies - I'm changing it 2 hours before the first class**
-
 ![checking](https://media0.giphy.com/media/l2YWxPbinlJYX5zMc/giphy.gif)
 
 * **WEEK 1 - September 2**
