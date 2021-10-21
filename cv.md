@@ -7,9 +7,11 @@ So far, when we work with the screen and pixels, we’ve been drawing shapes and
 We can easily load and display images. While it’s possible to load an image from a URL, it’s easier to load it locally. Put it in a folder in your projects path.
 
     let img;// Declare variable img
+    function preload{
+        img=loadImage("assets/tenor.gif");// Load the image
+    }
     function setup(){
         createCanvas(600,370);
-        img=loadImage("assets/tenor.gif");// Load the image
     }
     function draw(){
         // Displays the image at its actual size at point 0,0
