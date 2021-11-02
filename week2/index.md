@@ -53,9 +53,9 @@ void loop() {
 
 `loop()` runs over and over again forever until the power goes out or you press the reset button or upload a new sketch. The speed at which it goes through your code depends on what you’re doing. Generally though it moves through these lines faster than you think.
 
-Before we do the “Hello World” of hardware and get an LED to blink, we need to install the board definitions for the Nano 33 BLE. In the IDE, select the Tools > Boards > Boards Manager. Search for 'ble' and press the Install button for the "Arduino nRF528x Boards (Mbed OS)" selecttion. Once it has installed (takes a few minutes, have some tea and cookies while you wait), you can close the board manager.
+Before we do the “Hello World” of hardware and get an LED to blink, we need to install the board definitions for the Nano 33 BLE. In the IDE, select the Tools > Boards > Boards Manager. Search for 'Mbed OS Nano' and press the Install button for the "Mbed OS Nano" selection. Once it has installed (takes a few moments, have some tea and cookies while you wait), you can close the board manager.
 
-![board manager with Mbed OS definitions](https://www.arduino.cc/wiki/static/b2b6558640e0022ccba48781183b4fd9/caf7d/MBED_Board_Insta.jpg)
+![board manager with Mbed OS definitions](https://docs.arduino.cc/static/7b971f21a2676a06b2f13cd4770635ae/29114/install_mbed_img03.png)
 
 In `setup()`, you need to declare what pin you want to turn into an output. The [pinMode()](https://www.arduino.cc/en/Reference/PinMode) function takes care of this for us. `pinMode()` takes 2 arguments, the first is the number of the pin we want to set, and the second is what kind of pin we want it to be [(INPUT or OUTPUT)](https://www.arduino.cc/en/Reference/Constants). In this example, we’ll make pin 2 an `OUTPUT`.
 
