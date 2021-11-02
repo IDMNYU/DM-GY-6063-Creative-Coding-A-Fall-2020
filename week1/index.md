@@ -23,10 +23,7 @@ Soldering is going to become your best bet at keeping things in place. [Adafruit
 
 We will be working with DC in this class. It's what comes out of 9V batteries, USB cables, and the charger for your laptop. [There’s also AC](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc/all), it's the stuff that comes out of wall sockets, runs along power lines, and has been used to electrocute an elephant. But don’t go there.
 
-Turn an Arduino Uno into an expensive power supply to light up your LED.
-![simple circuit with an Uno](http://cc.droolcup.com/wp-content/uploads/2015/07/Simple-Switch.png)
-
-Here's the same, but with an Arduino Nano
+Here's a simple circuit with an Arduino Nano
 ![simple circuit with a Nano](switch%20nano.png)
 
 This circuit has 2 LEDs in series (for you CS folks, this is like &&)
