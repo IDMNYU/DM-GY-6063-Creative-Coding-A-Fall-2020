@@ -129,7 +129,7 @@ We can read the code above like this : “Read the value of pin 3, if there's 3.
 
 Now that we have the code, let’s adjust our circuit by adding a switch. This is not as straightforward as you want it to be either.
 
-![LED Switch and Arduino on a breaboard](/week2/LED_Switch.png)
+![LED Switch and Arduino on a breaboard](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week2/LED_Switch.png)
 
 You’re probably asking what the devil that 10kilohm resistor is doing in there.
 
@@ -140,7 +140,7 @@ Now that you’ve mastered the basics of writing code for digital input and outp
 Here are the 2 additional circuits  :
 
 2 LEDs, 1 switch
-![2 LEDs, a Switch and Arduino on a breaboard](/week2/2LED_1switch.png)
+![2 LEDs, a Switch and Arduino on a breaboard](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week2/2LED_1switch.png)
 
 2 LEDs, 2 switches (for use with the and/or program)
-![2 LEDs, 2 Switches and Arduino on a breaboard](/week2/2LED_2switch.png)
+![2 LEDs, 2 Switches and Arduino on a breaboard](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week2/2LED_2switch.png)
