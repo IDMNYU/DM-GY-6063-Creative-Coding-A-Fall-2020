@@ -197,7 +197,7 @@ We can ask questions about the pixels when we loop through them :
       mirror = createCapture(VIDEO); // our video object that will just see what the camera sees
       mirror.size(320,240);
       
-      let = createImage(640, 480); // create our image to be the same size as our canvas
+      img = createImage(640, 480); // create our image to be the same size as our canvas
       let.loadPixels(); // load our pixels into our first set of pixels into the image
     }
 
