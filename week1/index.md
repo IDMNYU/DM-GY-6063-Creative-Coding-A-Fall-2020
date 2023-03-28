@@ -36,7 +36,7 @@ This circuit has 2 LEDs in parallel. The voltage drop across each LED is the sam
 ![LEDs in parallel](parallelLED_bb.png)
 
 This curcuit has 2 LEDs and 2 switches in parallel (similar to || in programming)
-![leds and switches in parallel](http://cc.droolcup.com/wp-content/uploads/2015/07/bb.png)
+![leds and switches in parallel](bb_2LED_2Switches_parallel.png)
 
 Multimeters are great tools for figuring out what is going on inside a circuit. [Adafruit has a very nice tutorial on how to use one.](https://learn.adafruit.com/multimeters/overview)
 
